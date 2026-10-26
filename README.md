@@ -24,8 +24,11 @@ filled to start applying, build it up as you go, and lead with the capabilities 
 are most confident explaining.
 -->
 
-**Name:** [YOUR NAME]
-**LinkedIn:** [linkedin.com/in/yourprofile]
+**Name:** Ahmad Hassoun
+**Title:** Senior IAM Consultant (SailPoint IIQ), Montreal, Canada
+**Email:** ahmadhassoun@hotmail.ca
+**LinkedIn:** [linkedin.com/in/ahmadhassoun](https://linkedin.com/in/ahmadhassoun)
+**GitHub:** [github.com/ahmadhassoun](https://github.com/ahmadhassoun)
 **GitHub:** [github.com/yourusername]
 **Status:** In progress
 
@@ -33,11 +36,11 @@ are most confident explaining.
 
 ## What This Portfolio Shows
 
-I built a complete IAM environment from scratch using midPoint (IGA), a simulated HR source, OpenLDAP (target directory), and Auth0 (access management and federation). The environment runs locally and replicates how IAM works on a real enterprise engagement, from HR-triggered identity lifecycle through governance and certification, to customer identity and federation with live protocols.
+I am a senior IAM consultant with about 6 years in identity and access management (SailPoint IdentityIQ at National Bank of Canada, Bell, and Desjardins) on top of 10+ years in software development. Day to day I have worked on connectors, provisioning, account lifecycle, access certifications, and audit reporting inside SailPoint.
 
-This repository documents my configuration, architectural decisions, and analysis for each capability I built. It is intended as portfolio evidence for IAM implementation and engineering roles.
+To broaden that depth beyond a single vendor, I built a complete IAM environment from scratch using midPoint (an open-source IGA platform), a simulated HR source, OpenLDAP (target directory), and Auth0 (access management and federation). The environment runs locally and replicates how IAM works on a real enterprise engagement, from HR-triggered identity lifecycle through governance and certification, to customer identity and federation with live protocols.
 
-<!-- Once you are further along, rewrite this in your own words and name the specific roles you are targeting. -->
+This repository documents my configuration, architectural decisions, and analysis for each capability I built. It is intended as portfolio evidence for IAM implementation and engineering roles, and it shows how the concepts I use in SailPoint IIQ carry across platforms.
 
 ---
 
@@ -434,11 +437,11 @@ Certification campaign  ->  reviewer certifies or revokes each item
 
 ## My Transformation and Interview Readiness
 
-**Where I started:** [Your background before this: your current role and skills. Be honest and specific.]
+**Where I started:** A SailPoint IIQ specialist (IIQ 8.x) with roughly 6 years in IAM and 10+ years as a Java, Spring Boot, Node.js, and Angular developer. I built OpenConnector JDBC, Web Services, and Java connectors, provisioning logic, access certification campaigns, and audit reports for large Canadian financial and telecom organizations. My experience was deep on one IGA platform and thinner on access management and federation protocols.
 
-**Where I am now:** [What you can do now that you could not before. Update as you progress.]
+**Where I am now:** I can design and demonstrate an IAM stack end to end on a second IGA platform (midPoint), and I can connect it to the access management layer: OIDC, OAuth, and SAML federation with Auth0, plus token and claim customization. I can now explain how each SailPoint concept I already use maps to its equivalent in other platforms and to the protocols that sit alongside IGA.
 
 **What I can demo in an interview:**
 [List the capabilities you can open your laptop and show live, for example the full joiner and leaver lifecycle, the mover with role delta, a certification campaign, and OIDC or SAML login. This is your strongest closing line in any interview.]
 
-**Roles I am targeting:** [List the roles you are aiming for.]
+**Roles I am targeting:** Senior IAM Consultant, IAM Engineer / Architect, and IGA Implementation Lead roles (SailPoint IIQ and ISC, midPoint, Saviynt, Okta, Entra ID) in Montreal and remote across Canada.
